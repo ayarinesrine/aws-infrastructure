@@ -1,5 +1,0 @@
-1- La commande " terraform fmt " est utilisée pour formater le code Terraform conformément aux conventions de style standard.
-
-2- La commande " terraform init " initialise un répertoire de travail contenant des fichiers de configuration Terraform en téléchargeant les plugins nécessaires et en configurant l'état de base.
-
-3- La commande " terraform validate " vérifie que les fichiers de configuration Terraform sont correctement structurés et sans erreurs avant de déployer l'infrastructure.
